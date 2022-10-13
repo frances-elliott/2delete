@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Turning my oven into a sourdough proofing box"
-date:   2022-08-29 00:00:00 -0600
+date:   2022-08-29 00:00:00 -0000
 categories: jekyll update
 ---
 
